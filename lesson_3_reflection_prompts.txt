@@ -1,6 +1,6 @@
 When would you want to use a remote repository rather than keeping all your work
 local?
-
+-when working with others who might be remote
     Fill in your answer here
 
 Why might you want to always pull changes manually rather than having Git
